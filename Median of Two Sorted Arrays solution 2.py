@@ -91,8 +91,8 @@ nums2 = [11,12,13]
 print(slt.findMedianSortedArrays(nums1,nums2) , slt.verifyMedianSortedArrays(nums1,nums2))
 
 #test 5:
-nums2 = [1,2,3,4,5,6,7,8,9,10]
-nums1 = [11,12,13]
+nums2 = [2,4,5,6,7,8]
+nums1 = [5,11,12,13,14,21]
 print(slt.findMedianSortedArrays(nums1,nums2) , slt.verifyMedianSortedArrays(nums1,nums2))
 
 #test 5:
