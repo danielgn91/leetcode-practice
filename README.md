@@ -1,2 +1,2 @@
 # leetcode-practice
-Repository for posting my solutions for problems from leetcode
+Repository of my solutions for problems from leetcode
