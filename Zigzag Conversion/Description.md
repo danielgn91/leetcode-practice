@@ -22,11 +22,11 @@ Write the code that will take a string and make this conversion given a number o
 
 > **Input:** s = "PAYPALISHIRING", numRows = 4
 > **Output:** "PINALSIGYAHRPI"
-> **Explanation:**
-P     I    N
-A   L S  I G
-Y A   H R
-P     I
+> **Explanation:**  
+P     I    N  
+A   L S  I G  
+Y A   H R  
+P     I  
 
 ### Example 3:
 
